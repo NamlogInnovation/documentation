@@ -16,6 +16,7 @@ Content-Type: application/json.
 ## License
 
 The code is licensed to [Namlog](http://www.namlog.co.za/).
+There is a sample code base [here](https://github.com/NamlogInnovation/IntegrationSample).
 
 
 ## Authentication
